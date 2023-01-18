@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andres-sol99
-- 👀 I’m interested most sports but my favorite are skateboarding, football (Go Rams), golf, and ju jitsu.
+- 👀 I’m interested most sports but my favorite are skateboarding, football (Go Rams), and golf.
 - 🌱 I’m currently learning react through Nucamps full stack program.
 - 📫 andressolisnunez@gmai.com
 
